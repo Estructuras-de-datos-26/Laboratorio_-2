@@ -1,0 +1,15 @@
+Digite una palabra para buscar: Ana
+La palabra está en la posición: 0
+La palabra aparece 1 veces
+
+Digite posición a reemplazar: 0
+Digite nueva palabra: CArlos
+Se reemplazó: Ana por CArlos
+
+Lista antes de ordenar:
+Carlos <-> Carlos <-> María <-> José <-> Luis <-> Sofía <-> Juan <-> Laura <-> Pedro <-> Carmen <-> Miguel <-> Andrea <-> Daniel <-> Patricia <-> Jorge <-> Lucía <-> Fernando <-> Isabel <-> Ricardo <-> Valentina <-> Diego <-> Gabriela <-> Alejandro <-> Paula <-> Martín <-> Camila <-> Francisco <-> Elena <-> Sergio <-> Natalia <-> Manuel <-> Cristina <-> Javier <-> Beatriz <-> Antonio <-> Marta <-> Roberto <-> Claudia <-> Raúl <-> Adriana <-> Pablo <-> Silvia <-> Álvaro <-> Teresa <-> Andrés <-> Rosa <-> Eduardo <-> Verónica <-> Hugo <-> Lorena <-> Marco <-> Julia <-> Óscar <-> Alicia <-> Iván <-> Carolina <-> Emilio <-> Noelia <-> Ramón <-> Daniela <-> Tomás <-> Mariana <-> Víctor <-> Esther <-> Samuel <-> Nuria <-> Gonzalo <-> Irene <-> Mateo <-> Sara <-> Ángel <-> Paola <-> David <-> Mónica <-> Enrique <-> Natalia <-> Rubén <-> Carla <-> Gerardo <-> Ariana <-> Sebastián <-> Eva <-> Rodrigo <-> Marina <-> Felipe <-> Clara <-> Adrián <-> Raquel <-> Cristóbal <-> Alejandra <-> Héctor <-> Inés <-> Mauricio <-> Fátima <-> Simón <-> Rebeca <-> Bruno <-> Amparo <-> Esteban <-> Lidia <-> None
+
+Lista después de ordenar:
+Adriana <-> Adrián <-> Alejandra <-> Alejandro <-> Alicia <-> Amparo <-> Andrea <-> Andrés <-> Antonio <-> Ariana <-> Beatriz <-> Bruno <-> Camila <-> Carla <-> Carlos <-> Carlos <-> Carmen <-> Carolina <-> Clara <-> Claudia <-> Cristina <-> Cristóbal <-> Daniel <-> Daniela <-> David <-> Diego <-> Eduardo <-> Elena <-> Emilio <-> Enrique <-> Esteban <-> Esther <-> Eva <-> Felipe <-> Fernando <-> Francisco <-> Fátima <-> Gabriela <-> Gerardo <-> Gonzalo <-> Hugo <-> Héctor <-> Inés <-> Irene <-> Isabel <-> Iván <-> Javier <-> Jorge <-> José <-> Juan <-> Julia <-> Laura <-> Lidia <-> Lorena <-> Lucía <-> Luis <-> Manuel <-> Marco <-> Mariana <-> Marina <-> Marta <-> Martín <-> María <-> Mateo <-> Mauricio <-> Miguel <-> Mónica <-> Natalia <-> Natalia <-> Noelia <-> Nuria <-> Pablo <-> Paola <-> Patricia <-> Paula <-> Pedro <-> Ramón <-> Raquel <-> Raúl <-> Rebeca <-> Ricardo <-> Roberto <-> Rodrigo <-> Rosa <-> Rubén <-> Samuel <-> Sara <-> Sebastián <-> Sergio <-> Silvia <-> Simón <-> Sofía <-> Teresa <-> Tomás <-> Valentina <-> Verónica <-> Víctor <-> Álvaro <-> Ángel <-> Óscar <-> None
+
+Estudiantes: Daniela Valenciano Vargas - Christopher Blanco Solano
